@@ -1,0 +1,2 @@
+# Blogs
+Normal  record
